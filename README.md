@@ -2,7 +2,7 @@
 
 - 👀 I'm an applied scientist and consultant with twelve years industry experience in data science and machine learning deployment. 
 
-- 🌱 My domain expertise is in geoscience, but I'm committed to continuous learning, and have consulted for clients in the energy, extraction, medical, manufacturing, and semiconductor industries, as well as governmental agencies. 
+- 🌱 Domain expertise in geoscience, but I'm committed to continuous learning, and have consulted for clients in the energy, extraction, medical, manufacturing, and semiconductor industries, as well as governmental agencies. 
 
 - 📫 Find my resume, and get in contact here :point_right: [My Website](https://www.nchowes.com) 
 
